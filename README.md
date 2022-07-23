@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [My Music](https://github.com/GaneshNaik16/My-Music.git)
 
-- 🌱 I’m currently learning **flutter, js**
+- 🌱 I’m currently learning **flutter, kotlin**
 
-- 💬 Ask me about **android dev, dbms**
+- 💬 Ask me about **android dev, webdev**
 
 - 📫 How to reach me **ganesh.naik20@vit.edu**
 
