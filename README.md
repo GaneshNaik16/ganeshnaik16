@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **flutter, kotlin**
 
-- 💬 Ask me about **android dev, webdev**
+- 💬 Ask me about **android dev, firebase**
 
 - 📫 How to reach me **ganesh.naik20@vit.edu**
 
